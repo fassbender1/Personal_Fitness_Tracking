@@ -97,7 +97,7 @@ def main():
             pass
         elif choice == '6':
             # Print a goodbye message and break the loop
-            print("Thank you for using the Fitness Tracker. S3tay healthy! 💪")
+            print("Thank you for using the Fitness Tracker. Stay healthy! 💪")
             break
         else:
             print("Invalid choice, please try again.")
